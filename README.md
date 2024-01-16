@@ -10,7 +10,7 @@ After installing the application with a click of a button, use the DevTools to i
 
 ![JATE](./Images/JATE.png)
 
-Heroku Website: 
+Heroku Website: https://text-editor1983-1576fcbe94c2.herokuapp.com
 
 Video: https://drive.google.com/file/d/1wx9AUqLyWz7dVdTX4jG0fteDX6Bu8oTs/view
 
